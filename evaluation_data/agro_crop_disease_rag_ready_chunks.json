@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "agro_crop_disease_rag_ready_c0",
+    "text": "bacterial spot disease affects pepper__bell crops. Symptoms include visible lesions, discoloration, or abnormal growth on pepper__bell leaves or stems. Recommended treatment is to apply appropriate fungicide or pesticide and use resistant pepper__bell varieties.",
+    "metadata": {
+      "type": "disease",
+      "crop": "pepper__bell",
+      "disease": "bacterial spot",
+      "source": "crop_disease_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 262,
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "agro_crop_disease_rag_ready_c1",
+    "text": "early blight disease affects potato crops. Symptoms include visible lesions, discoloration, or abnormal growth on potato leaves or stems. Recommended treatment is to apply appropriate fungicide or pesticide and use resistant potato varieties.",
+    "metadata": {
+      "type": "disease",
+      "crop": "potato",
+      "disease": "early blight",
+      "source": "crop_disease_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 242,
+      "chunk_index": 1
+    }
+  },
+  {
+    "chunk_id": "agro_crop_disease_rag_ready_c2",
+    "text": "late blight disease affects potato crops. Symptoms include visible lesions, discoloration, or abnormal growth on potato leaves or stems. Recommended treatment is to apply appropriate fungicide or pesticide and use resistant potato varieties.",
+    "metadata": {
+      "type": "disease",
+      "crop": "potato",
+      "disease": "late blight",
+      "source": "crop_disease_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 241,
+      "chunk_index": 2
+    }
+  }
+]

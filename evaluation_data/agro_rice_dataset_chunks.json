@@ -1,0 +1,770 @@
+[
+  {
+    "chunk_id": "agro_rice_s_c0",
+    "text": "Rice season Navarai sown Dec - Jan duration < 120 days. Districts: Tiruvallur, Vellore, Tiruvannamalai, Cuddalore, Villupuram, Tiruchirapalli, Perambalur, Karur, Nagapattinam, Madurai, Theni, Salem, Namakkal, Dindigul, Dharmapuri, Coimbatore, Erode, Pudukkottai. Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_season",
+      "char_count": 292,
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "agro_rice_s_c1",
+    "text": "Rice season Sornavari sown Apr - May duration < 120 days. Districts: Tiruvallur, Vellore, Tiruvannamalai, Cuddalore, Villupuram, Namakkal, Dharmapuri. Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_season",
+      "char_count": 180,
+      "chunk_index": 1
+    }
+  },
+  {
+    "chunk_id": "agro_rice_s_c2",
+    "text": "Rice season Early Kar Kar sown Apr - May May - June duration < 120 days. Districts: Tirunelveli, Kanyakumari, Thoothukudi, Erode, Coimbatore, Madurai, Theni, Dindigul, Salem, Namakkal, Dharmapuri. Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_season",
+      "char_count": 226,
+      "chunk_index": 2
+    }
+  },
+  {
+    "chunk_id": "agro_rice_s_c3",
+    "text": "Rice season Kuruvai sown June - July duration < 120 days. Districts: Tiruchirapalli, Perambalur, Karur, Thanjavur, Nagapattinam, Tiruvarur, Pudukottai, Erode. Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_season",
+      "char_count": 188,
+      "chunk_index": 3
+    }
+  },
+  {
+    "chunk_id": "agro_rice_s_c4",
+    "text": "Rice season Samba sown August duration > 145 days. Districts: Thanjavur, Tiruvarur, Nagapattinam, Mayiladuthurai, Tiruchirapalli, Cuddalore, Pudukkottai, Ariyalur, Villupuram, Kanyakumari, . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_season",
+      "char_count": 220,
+      "chunk_index": 4
+    }
+  },
+  {
+    "chunk_id": "agro_rice_s_c5",
+    "text": "Rice season Late Samba Thaladi Pishanam sown Sep - Oct duration 130 - 135 days. Districts: All Rice Growing Districts of Tamil Nadu. Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_season",
+      "char_count": 162,
+      "chunk_index": 5
+    }
+  },
+  {
+    "chunk_id": "agro_rice_s_c6",
+    "text": "Rice season Late Thaladi & Late Pishanam sown Oct - Nov duration 130 - 140 / 120 - 130 days. Districts: Thanjavur, Tiruvarur, Nagapattinam, Mayiladuthurai, Tiruchirapalli, Ariyalur, Perambalur, Cuddalore, Karur, Madurai, Theni, Dindigul, Kanyakumari, Tirunelveli, Thoothukudi. Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_season",
+      "char_count": 306,
+      "chunk_index": 6
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c7",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 7
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c8",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 8
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c9",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 9
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c10",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 10
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c11",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 11
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c12",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 12
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c13",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 13
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c14",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 14
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c15",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 15
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c16",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 16
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c17",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 17
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c18",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 18
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c19",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 19
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c20",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 20
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c21",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 21
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c22",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 22
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c23",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 23
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c24",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 24
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c25",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 25
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c26",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 26
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c27",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 27
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c28",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 28
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c29",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 29
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c30",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 30
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c31",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 31
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c32",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 32
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c33",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 33
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c34",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 34
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c35",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 35
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c36",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 36
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c37",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 37
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c38",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 38
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c39",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 39
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c40",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 40
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c41",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 41
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c42",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 42
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c43",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 43
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c44",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 44
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c45",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 45
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c46",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 46
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c47",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 47
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c48",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 48
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c49",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 49
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c50",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 50
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c51",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 51
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c52",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 52
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c53",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 53
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c54",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 54
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c55",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 55
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c56",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 56
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c57",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 57
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c58",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 58
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c59",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 59
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c60",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 60
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c61",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 61
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c62",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 62
+    }
+  },
+  {
+    "chunk_id": "agro_rice_v_c63",
+    "text": "Rice variety  type  duration . Traits: . Seasons: . Source: TNAU Agritech Portal.",
+    "metadata": {
+      "source": "rice_dataset.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "type": "rice_variety",
+      "char_count": 81,
+      "chunk_index": 63
+    }
+  }
+]

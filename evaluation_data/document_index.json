@@ -1,0 +1,132 @@
+{
+    "ICAR_Traditional_Knowledge_Agriculture_1782802161": {
+        "doc_id": "ICAR_Traditional_Knowledge_Agriculture_1782802161",
+        "filename": "ICAR_Traditional_Knowledge_Agriculture.pdf",
+        "domain": "Traditional Knowledge / Sustainable Agriculture",
+        "filepath": "C:\\Users\\vineetha n\\OneDrive\\Desktop\\RVU\\Internship project\\knowledge_corpus\\ICAR_Traditional_Knowledge_Agriculture.pdf",
+        "ingested_at": "2026-06-30T12:19:26.139893",
+        "total_characters": 141076,
+        "total_chunks": 206,
+        "chunks_file": "ICAR_Traditional_Knowledge_Agriculture_1782802161_chunks.json"
+    },
+    "Indigenous_Technical_Knowledge_1782802166": {
+        "doc_id": "Indigenous_Technical_Knowledge_1782802166",
+        "filename": "Indigenous Technical Knowledge.pdf",
+        "domain": "Traditional Knowledge / Sustainable Agriculture",
+        "filepath": "C:\\Users\\vineetha n\\OneDrive\\Desktop\\RVU\\Internship project\\knowledge_corpus\\Indigenous Technical Knowledge.pdf",
+        "ingested_at": "2026-06-30T12:19:27.616118",
+        "total_characters": 52912,
+        "total_chunks": 87,
+        "chunks_file": "Indigenous_Technical_Knowledge_1782802166_chunks.json"
+    },
+    "Karnataka_ITK_BOOK_FINAL_COPY_2020_1782802167": {
+        "doc_id": "Karnataka_ITK_BOOK_FINAL_COPY_2020_1782802167",
+        "filename": "Karnataka ITK BOOK FINAL COPY 2020.pdf",
+        "domain": "Traditional Knowledge / Sustainable Agriculture",
+        "filepath": "C:\\Users\\vineetha n\\OneDrive\\Desktop\\RVU\\Internship project\\knowledge_corpus\\Karnataka ITK BOOK FINAL COPY 2020.pdf",
+        "ingested_at": "2026-06-30T12:19:28.330114",
+        "total_characters": 250067,
+        "total_chunks": 397,
+        "chunks_file": "Karnataka_ITK_BOOK_FINAL_COPY_2020_1782802167_chunks.json"
+    },
+    "Karnataka_traditional_seed_practices_knowledge_1782802168": {
+        "doc_id": "Karnataka_traditional_seed_practices_knowledge_1782802168",
+        "filename": "Karnataka traditional seed practices knowledge.pdf",
+        "domain": "Traditional Knowledge / Sustainable Agriculture",
+        "filepath": "C:\\Users\\vineetha n\\OneDrive\\Desktop\\RVU\\Internship project\\knowledge_corpus\\Karnataka traditional seed practices knowledge.pdf",
+        "ingested_at": "2026-06-30T12:19:28.412911",
+        "total_characters": 33475,
+        "total_chunks": 47,
+        "chunks_file": "Karnataka_traditional_seed_practices_knowledge_1782802168_chunks.json"
+    },
+    "traditional_agriculture_manual_1782802168": {
+        "doc_id": "traditional_agriculture_manual_1782802168",
+        "filename": "traditional_agriculture_manual.txt",
+        "domain": "Traditional Knowledge / Sustainable Agriculture",
+        "filepath": "C:\\Users\\vineetha n\\OneDrive\\Desktop\\RVU\\Internship project\\knowledge_corpus\\traditional_agriculture_manual.txt",
+        "ingested_at": "2026-06-30T12:19:28.446322",
+        "total_characters": 5123,
+        "total_chunks": 8,
+        "chunks_file": "traditional_agriculture_manual_1782802168_chunks.json"
+    },
+    "agro_crop_dataset_rag_ready": {
+        "doc_id": "agro_crop_dataset_rag_ready",
+        "filename": "crop_dataset_rag_ready.json",
+        "domain": "Agro Dataset / Scientific Crop Knowledge",
+        "filepath": "C:\\Users\\vineetha n\\OneDrive\\Desktop\\RVU\\Internship project\\knowledge_corpus\\Agro dataset\\crop_dataset_rag_ready.json",
+        "ingested_at": "2026-07-09T21:25:47.595106",
+        "total_characters": 552526,
+        "total_chunks": 2200,
+        "chunks_file": "agro_crop_dataset_rag_ready_chunks.json"
+    },
+    "agro_crop_disease_rag_ready": {
+        "doc_id": "agro_crop_disease_rag_ready",
+        "filename": "crop_disease_rag_ready.json",
+        "domain": "Agro Dataset / Scientific Crop Knowledge",
+        "filepath": "C:\\Users\\vineetha n\\OneDrive\\Desktop\\RVU\\Internship project\\knowledge_corpus\\Agro dataset\\crop_disease_rag_ready.json",
+        "ingested_at": "2026-07-09T21:25:47.734988",
+        "total_characters": 745,
+        "total_chunks": 3,
+        "chunks_file": "agro_crop_disease_rag_ready_chunks.json"
+    },
+    "agro_fertilizer_dataset_rag_ready": {
+        "doc_id": "agro_fertilizer_dataset_rag_ready",
+        "filename": "fertilizer_dataset_rag_ready.json",
+        "domain": "Agro Dataset / Scientific Crop Knowledge",
+        "filepath": "C:\\Users\\vineetha n\\OneDrive\\Desktop\\RVU\\Internship project\\knowledge_corpus\\Agro dataset\\fertilizer_dataset_rag_ready.json",
+        "ingested_at": "2026-07-09T21:25:47.799063",
+        "total_characters": 12838,
+        "total_chunks": 99,
+        "chunks_file": "agro_fertilizer_dataset_rag_ready_chunks.json"
+    },
+    "agro_crop_yield_dataset_rag_ready": {
+        "doc_id": "agro_crop_yield_dataset_rag_ready",
+        "filename": "crop_yield_dataset_rag_ready.json",
+        "domain": "Agro Dataset / Scientific Crop Knowledge",
+        "filepath": "C:\\Users\\vineetha n\\OneDrive\\Desktop\\RVU\\Internship project\\knowledge_corpus\\Agro dataset\\crop_yield_dataset_rag_ready.json",
+        "ingested_at": "2026-07-09T21:25:47.971376",
+        "total_characters": 118867,
+        "total_chunks": 500,
+        "chunks_file": "agro_crop_yield_dataset_rag_ready_chunks.json"
+    },
+    "agro_soil_dataset_rag_ready": {
+        "doc_id": "agro_soil_dataset_rag_ready",
+        "filename": "soil_dataset_rag_ready.json",
+        "domain": "Agro Dataset / Scientific Crop Knowledge",
+        "filepath": "C:\\Users\\vineetha n\\OneDrive\\Desktop\\RVU\\Internship project\\knowledge_corpus\\Agro dataset\\soil_dataset_rag_ready.json",
+        "ingested_at": "2026-07-09T21:25:48.158063",
+        "total_characters": 74457,
+        "total_chunks": 500,
+        "chunks_file": "agro_soil_dataset_rag_ready_chunks.json"
+    },
+    "agro_weather_dataset_rag_ready": {
+        "doc_id": "agro_weather_dataset_rag_ready",
+        "filename": "weather_dataset_rag_ready.json",
+        "domain": "Agro Dataset / Scientific Crop Knowledge",
+        "filepath": "C:\\Users\\vineetha n\\OneDrive\\Desktop\\RVU\\Internship project\\knowledge_corpus\\Agro dataset\\weather_dataset_rag_ready.json",
+        "ingested_at": "2026-07-09T21:25:56.233621",
+        "total_characters": 16662,
+        "total_chunks": 200,
+        "chunks_file": "agro_weather_dataset_rag_ready_chunks.json"
+    },
+    "agro_rice_dataset": {
+        "doc_id": "agro_rice_dataset",
+        "filename": "rice_dataset.json",
+        "domain": "Agro Dataset / Scientific Crop Knowledge",
+        "filepath": "C:\\Users\\vineetha n\\OneDrive\\Desktop\\RVU\\Internship project\\knowledge_corpus\\Agro dataset\\rice_dataset.json",
+        "ingested_at": "2026-07-09T21:25:56.380940",
+        "total_characters": 6191,
+        "total_chunks": 64,
+        "chunks_file": "agro_rice_dataset_chunks.json"
+    },
+    "traditional_agriculture_manual_1783612806": {
+        "doc_id": "traditional_agriculture_manual_1783612806",
+        "filename": "traditional_agriculture_manual.txt",
+        "domain": "Traditional Knowledge / Sustainable Agriculture",
+        "filepath": "C:\\Users\\vineetha n\\OneDrive\\Desktop\\RVU\\Internship project\\knowledge_corpus\\traditional_agriculture_manual.txt",
+        "ingested_at": "2026-07-09T21:30:06.466324",
+        "total_characters": 5123,
+        "total_chunks": 8,
+        "chunks_file": "traditional_agriculture_manual_1783612806_chunks.json"
+    }
+}

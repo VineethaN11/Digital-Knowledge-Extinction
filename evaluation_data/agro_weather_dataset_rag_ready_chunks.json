@@ -1,0 +1,2602 @@
+[
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c0",
+    "text": "In Dallas Ft Worth the average temperature recorded was 35.6 degrees Celsius on 23/1/2008.",
+    "metadata": {
+      "type": "weather",
+      "city": "Dallas Ft Worth",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 90,
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c1",
+    "text": "In Islamabad the average temperature recorded was 64.9 degrees Celsius on 4/11/2014.",
+    "metadata": {
+      "type": "weather",
+      "city": "Islamabad",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 1
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c2",
+    "text": "In Abidjan the average temperature recorded was 81.7 degrees Celsius on 2/1/2018.",
+    "metadata": {
+      "type": "weather",
+      "city": "Abidjan",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 2
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c3",
+    "text": "In Montreal the average temperature recorded was -7.6 degrees Celsius on 18/1/2000.",
+    "metadata": {
+      "type": "weather",
+      "city": "Montreal",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 3
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c4",
+    "text": "In Amman the average temperature recorded was 77.1 degrees Celsius on 24/7/2016.",
+    "metadata": {
+      "type": "weather",
+      "city": "Amman",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 4
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c5",
+    "text": "In Stockholm the average temperature recorded was 62.8 degrees Celsius on 14/8/2008.",
+    "metadata": {
+      "type": "weather",
+      "city": "Stockholm",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 5
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c6",
+    "text": "In Canberra the average temperature recorded was 35.4 degrees Celsius on 30/6/2017.",
+    "metadata": {
+      "type": "weather",
+      "city": "Canberra",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 6
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c7",
+    "text": "In Ulan-bator the average temperature recorded was 13.3 degrees Celsius on 6/11/2014.",
+    "metadata": {
+      "type": "weather",
+      "city": "Ulan-bator",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 7
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c8",
+    "text": "In Charleston the average temperature recorded was 56.8 degrees Celsius on 7/11/2004.",
+    "metadata": {
+      "type": "weather",
+      "city": "Charleston",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 8
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c9",
+    "text": "In Buffalo the average temperature recorded was 24.2 degrees Celsius on 22/1/2009.",
+    "metadata": {
+      "type": "weather",
+      "city": "Buffalo",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 9
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c10",
+    "text": "In Osaka the average temperature recorded was 61.7 degrees Celsius on 14/11/2010.",
+    "metadata": {
+      "type": "weather",
+      "city": "Osaka",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 10
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c11",
+    "text": "In Medford the average temperature recorded was 47.6 degrees Celsius on 8/12/2019.",
+    "metadata": {
+      "type": "weather",
+      "city": "Medford",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 11
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c12",
+    "text": "In Atlanta the average temperature recorded was 81.4 degrees Celsius on 5/7/2002.",
+    "metadata": {
+      "type": "weather",
+      "city": "Atlanta",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 12
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c13",
+    "text": "In Nouakchott the average temperature recorded was 71.2 degrees Celsius on 20/3/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Nouakchott",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 13
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c14",
+    "text": "In Antananarivo the average temperature recorded was 62.8 degrees Celsius on 14/10/1999.",
+    "metadata": {
+      "type": "weather",
+      "city": "Antananarivo",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 88,
+      "chunk_index": 14
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c15",
+    "text": "In Almaty the average temperature recorded was 59.9 degrees Celsius on 8/5/2012.",
+    "metadata": {
+      "type": "weather",
+      "city": "Almaty",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 15
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c16",
+    "text": "In Bilbao the average temperature recorded was 63.3 degrees Celsius on 6/11/2006.",
+    "metadata": {
+      "type": "weather",
+      "city": "Bilbao",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 16
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c17",
+    "text": "In Kiev the average temperature recorded was 72.6 degrees Celsius on 31/8/2015.",
+    "metadata": {
+      "type": "weather",
+      "city": "Kiev",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 79,
+      "chunk_index": 17
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c18",
+    "text": "In Jackson the average temperature recorded was 61.3 degrees Celsius on 8/3/2006.",
+    "metadata": {
+      "type": "weather",
+      "city": "Jackson",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 18
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c19",
+    "text": "In Philadelphia the average temperature recorded was 64.6 degrees Celsius on 19/9/2009.",
+    "metadata": {
+      "type": "weather",
+      "city": "Philadelphia",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 87,
+      "chunk_index": 19
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c20",
+    "text": "In Nairobi the average temperature recorded was 69.7 degrees Celsius on 24/2/2013.",
+    "metadata": {
+      "type": "weather",
+      "city": "Nairobi",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 20
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c21",
+    "text": "In Raleigh Durham the average temperature recorded was 69.1 degrees Celsius on 1/11/2013.",
+    "metadata": {
+      "type": "weather",
+      "city": "Raleigh Durham",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 89,
+      "chunk_index": 21
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c22",
+    "text": "In Amsterdam the average temperature recorded was 60.9 degrees Celsius on 3/9/2001.",
+    "metadata": {
+      "type": "weather",
+      "city": "Amsterdam",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 22
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c23",
+    "text": "In San Angelo the average temperature recorded was 62.6 degrees Celsius on 26/4/2001.",
+    "metadata": {
+      "type": "weather",
+      "city": "San Angelo",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 23
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c24",
+    "text": "In Buffalo the average temperature recorded was 40.6 degrees Celsius on 6/3/2004.",
+    "metadata": {
+      "type": "weather",
+      "city": "Buffalo",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 24
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c25",
+    "text": "In West Palm Beach the average temperature recorded was 74.1 degrees Celsius on 16/4/2000.",
+    "metadata": {
+      "type": "weather",
+      "city": "West Palm Beach",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 90,
+      "chunk_index": 25
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c26",
+    "text": "In Madrid the average temperature recorded was 47.1 degrees Celsius on 6/3/2002.",
+    "metadata": {
+      "type": "weather",
+      "city": "Madrid",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 26
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c27",
+    "text": "In Fort Wayne the average temperature recorded was 71.4 degrees Celsius on 19/6/2011.",
+    "metadata": {
+      "type": "weather",
+      "city": "Fort Wayne",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 27
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c28",
+    "text": "In Medford the average temperature recorded was 45.9 degrees Celsius on 5/11/2005.",
+    "metadata": {
+      "type": "weather",
+      "city": "Medford",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 28
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c29",
+    "text": "In Quebec the average temperature recorded was 33.8 degrees Celsius on 8/4/2001.",
+    "metadata": {
+      "type": "weather",
+      "city": "Quebec",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 29
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c30",
+    "text": "In Bangui the average temperature recorded was 80.7 degrees Celsius on 14/6/2006.",
+    "metadata": {
+      "type": "weather",
+      "city": "Bangui",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 30
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c31",
+    "text": "In Sofia the average temperature recorded was 46.2 degrees Celsius on 29/3/2020.",
+    "metadata": {
+      "type": "weather",
+      "city": "Sofia",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 31
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c32",
+    "text": "In Atlanta the average temperature recorded was 80.9 degrees Celsius on 18/6/2010.",
+    "metadata": {
+      "type": "weather",
+      "city": "Atlanta",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 32
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c33",
+    "text": "In Paramaribo the average temperature recorded was 82.7 degrees Celsius on 28/9/2005.",
+    "metadata": {
+      "type": "weather",
+      "city": "Paramaribo",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 33
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c34",
+    "text": "In Quebec the average temperature recorded was 62.5 degrees Celsius on 7/8/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Quebec",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 34
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c35",
+    "text": "In Brussels the average temperature recorded was 74.2 degrees Celsius on 13/8/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Brussels",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 35
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c36",
+    "text": "In Bratislava the average temperature recorded was 52.7 degrees Celsius on 30/5/2019.",
+    "metadata": {
+      "type": "weather",
+      "city": "Bratislava",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 36
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c37",
+    "text": "In Panama City the average temperature recorded was 82.0 degrees Celsius on 3/1/2010.",
+    "metadata": {
+      "type": "weather",
+      "city": "Panama City",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 37
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c38",
+    "text": "In Ulan-bator the average temperature recorded was 62.7 degrees Celsius on 30/7/2011.",
+    "metadata": {
+      "type": "weather",
+      "city": "Ulan-bator",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 38
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c39",
+    "text": "In Almaty the average temperature recorded was 73.5 degrees Celsius on 13/6/2001.",
+    "metadata": {
+      "type": "weather",
+      "city": "Almaty",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 39
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c40",
+    "text": "In San Diego the average temperature recorded was 60.4 degrees Celsius on 8/5/2008.",
+    "metadata": {
+      "type": "weather",
+      "city": "San Diego",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 40
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c41",
+    "text": "In Vientiane the average temperature recorded was 78.6 degrees Celsius on 24/3/1999.",
+    "metadata": {
+      "type": "weather",
+      "city": "Vientiane",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 41
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c42",
+    "text": "In Fairbanks the average temperature recorded was 17.9 degrees Celsius on 14/11/2017.",
+    "metadata": {
+      "type": "weather",
+      "city": "Fairbanks",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 42
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c43",
+    "text": "In Caracas the average temperature recorded was 80.0 degrees Celsius on 18/7/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Caracas",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 43
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c44",
+    "text": "In Pittsburgh the average temperature recorded was 34.8 degrees Celsius on 16/12/2003.",
+    "metadata": {
+      "type": "weather",
+      "city": "Pittsburgh",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 86,
+      "chunk_index": 44
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c45",
+    "text": "In Istanbul the average temperature recorded was 81.7 degrees Celsius on 11/8/2014.",
+    "metadata": {
+      "type": "weather",
+      "city": "Istanbul",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 45
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c46",
+    "text": "In Lagos the average temperature recorded was 85.6 degrees Celsius on 26/2/2020.",
+    "metadata": {
+      "type": "weather",
+      "city": "Lagos",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 46
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c47",
+    "text": "In Goodland the average temperature recorded was 37.5 degrees Celsius on 11/12/2001.",
+    "metadata": {
+      "type": "weather",
+      "city": "Goodland",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 47
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c48",
+    "text": "In Atlantic City the average temperature recorded was 74.4 degrees Celsius on 1/8/2005.",
+    "metadata": {
+      "type": "weather",
+      "city": "Atlantic City",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 87,
+      "chunk_index": 48
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c49",
+    "text": "In Taipei the average temperature recorded was 92.5 degrees Celsius on 7/8/2017.",
+    "metadata": {
+      "type": "weather",
+      "city": "Taipei",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 49
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c50",
+    "text": "In Sacramento the average temperature recorded was 62.0 degrees Celsius on 21/9/2017.",
+    "metadata": {
+      "type": "weather",
+      "city": "Sacramento",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 50
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c51",
+    "text": "In Calcutta the average temperature recorded was -99.0 degrees Celsius on 17/11/2018.",
+    "metadata": {
+      "type": "weather",
+      "city": "Calcutta",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 51
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c52",
+    "text": "In Syracuse the average temperature recorded was 63.1 degrees Celsius on 8/8/2009.",
+    "metadata": {
+      "type": "weather",
+      "city": "Syracuse",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 52
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c53",
+    "text": "In Monterrey the average temperature recorded was 79.9 degrees Celsius on 28/6/2015.",
+    "metadata": {
+      "type": "weather",
+      "city": "Monterrey",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 53
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c54",
+    "text": "In Abilene the average temperature recorded was 43.8 degrees Celsius on 9/1/2011.",
+    "metadata": {
+      "type": "weather",
+      "city": "Abilene",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 54
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c55",
+    "text": "In Chattanooga the average temperature recorded was 48.1 degrees Celsius on 10/4/1996.",
+    "metadata": {
+      "type": "weather",
+      "city": "Chattanooga",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 86,
+      "chunk_index": 55
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c56",
+    "text": "In Flagstaff the average temperature recorded was 66.0 degrees Celsius on 20/8/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Flagstaff",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 56
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c57",
+    "text": "In Toledo the average temperature recorded was 30.6 degrees Celsius on 14/11/1995.",
+    "metadata": {
+      "type": "weather",
+      "city": "Toledo",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 57
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c58",
+    "text": "In Rome the average temperature recorded was 78.0 degrees Celsius on 28/7/2002.",
+    "metadata": {
+      "type": "weather",
+      "city": "Rome",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 79,
+      "chunk_index": 58
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c59",
+    "text": "In Shanghai the average temperature recorded was 55.3 degrees Celsius on 11/3/2014.",
+    "metadata": {
+      "type": "weather",
+      "city": "Shanghai",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 59
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c60",
+    "text": "In Freetown the average temperature recorded was 77.8 degrees Celsius on 5/9/1996.",
+    "metadata": {
+      "type": "weather",
+      "city": "Freetown",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 60
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c61",
+    "text": "In Burlington the average temperature recorded was 10.7 degrees Celsius on 26/2/2005.",
+    "metadata": {
+      "type": "weather",
+      "city": "Burlington",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 61
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c62",
+    "text": "In Geneva the average temperature recorded was 66.1 degrees Celsius on 17/9/2011.",
+    "metadata": {
+      "type": "weather",
+      "city": "Geneva",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 62
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c63",
+    "text": "In Mexico City the average temperature recorded was 68.7 degrees Celsius on 1/5/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Mexico City",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 63
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c64",
+    "text": "In Chennai (Madras) the average temperature recorded was 80.4 degrees Celsius on 25/11/2004.",
+    "metadata": {
+      "type": "weather",
+      "city": "Chennai (Madras)",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 92,
+      "chunk_index": 64
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c65",
+    "text": "In Kiev the average temperature recorded was 33.5 degrees Celsius on 25/2/2017.",
+    "metadata": {
+      "type": "weather",
+      "city": "Kiev",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 79,
+      "chunk_index": 65
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c66",
+    "text": "In Ulan-bator the average temperature recorded was 40.2 degrees Celsius on 11/9/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Ulan-bator",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 66
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c67",
+    "text": "In San Diego the average temperature recorded was 70.6 degrees Celsius on 20/8/2010.",
+    "metadata": {
+      "type": "weather",
+      "city": "San Diego",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 67
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c68",
+    "text": "In Quebec the average temperature recorded was 49.0 degrees Celsius on 10/10/1998.",
+    "metadata": {
+      "type": "weather",
+      "city": "Quebec",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 68
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c69",
+    "text": "In South Bend the average temperature recorded was 1.7 degrees Celsius on 22/12/2008.",
+    "metadata": {
+      "type": "weather",
+      "city": "South Bend",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 69
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c70",
+    "text": "In Brownsville the average temperature recorded was 69.8 degrees Celsius on 26/10/2015.",
+    "metadata": {
+      "type": "weather",
+      "city": "Brownsville",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 87,
+      "chunk_index": 70
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c71",
+    "text": "In Tucson the average temperature recorded was 61.8 degrees Celsius on 14/3/1999.",
+    "metadata": {
+      "type": "weather",
+      "city": "Tucson",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 71
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c72",
+    "text": "In Nicosia the average temperature recorded was -99.0 degrees Celsius on 25/11/2003.",
+    "metadata": {
+      "type": "weather",
+      "city": "Nicosia",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 72
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c73",
+    "text": "In Little Rock the average temperature recorded was 43.1 degrees Celsius on 23/11/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Little Rock",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 87,
+      "chunk_index": 73
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c74",
+    "text": "In Anchorage the average temperature recorded was 48.9 degrees Celsius on 25/8/2000.",
+    "metadata": {
+      "type": "weather",
+      "city": "Anchorage",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 74
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c75",
+    "text": "In Moscow the average temperature recorded was 39.2 degrees Celsius on 25/4/1996.",
+    "metadata": {
+      "type": "weather",
+      "city": "Moscow",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 75
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c76",
+    "text": "In Seattle the average temperature recorded was 46.7 degrees Celsius on 11/1/2006.",
+    "metadata": {
+      "type": "weather",
+      "city": "Seattle",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 76
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c77",
+    "text": "In Abu Dhabi the average temperature recorded was 101.7 degrees Celsius on 15/6/2017.",
+    "metadata": {
+      "type": "weather",
+      "city": "Abu Dhabi",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 77
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c78",
+    "text": "In Madison the average temperature recorded was 75.9 degrees Celsius on 24/5/2007.",
+    "metadata": {
+      "type": "weather",
+      "city": "Madison",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 78
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c79",
+    "text": "In Midland Odessa the average temperature recorded was 83.0 degrees Celsius on 14/6/2005.",
+    "metadata": {
+      "type": "weather",
+      "city": "Midland Odessa",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 89,
+      "chunk_index": 79
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c80",
+    "text": "In Shenyang the average temperature recorded was -4.1 degrees Celsius on 13/1/2010.",
+    "metadata": {
+      "type": "weather",
+      "city": "Shenyang",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 80
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c81",
+    "text": "In Rhode Island the average temperature recorded was 52.5 degrees Celsius on 17/4/2015.",
+    "metadata": {
+      "type": "weather",
+      "city": "Rhode Island",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 87,
+      "chunk_index": 81
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c82",
+    "text": "In Brownsville the average temperature recorded was 79.1 degrees Celsius on 16/9/2007.",
+    "metadata": {
+      "type": "weather",
+      "city": "Brownsville",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 86,
+      "chunk_index": 82
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c83",
+    "text": "In Paris the average temperature recorded was 60.1 degrees Celsius on 1/10/2009.",
+    "metadata": {
+      "type": "weather",
+      "city": "Paris",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 83
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c84",
+    "text": "In Concord the average temperature recorded was 38.8 degrees Celsius on 21/12/2006.",
+    "metadata": {
+      "type": "weather",
+      "city": "Concord",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 84
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c85",
+    "text": "In Amman the average temperature recorded was 82.6 degrees Celsius on 21/8/2015.",
+    "metadata": {
+      "type": "weather",
+      "city": "Amman",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 85
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c86",
+    "text": "In Prague the average temperature recorded was 14.9 degrees Celsius on 7/1/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Prague",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 86
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c87",
+    "text": "In Topeka the average temperature recorded was 26.6 degrees Celsius on 19/2/2009.",
+    "metadata": {
+      "type": "weather",
+      "city": "Topeka",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 87
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c88",
+    "text": "In San Diego the average temperature recorded was 59.9 degrees Celsius on 7/12/2002.",
+    "metadata": {
+      "type": "weather",
+      "city": "San Diego",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 88
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c89",
+    "text": "In Calgary the average temperature recorded was 43.0 degrees Celsius on 28/10/2000.",
+    "metadata": {
+      "type": "weather",
+      "city": "Calgary",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 89
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c90",
+    "text": "In Dallas Ft Worth the average temperature recorded was 89.8 degrees Celsius on 22/8/2014.",
+    "metadata": {
+      "type": "weather",
+      "city": "Dallas Ft Worth",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 90,
+      "chunk_index": 90
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c91",
+    "text": "In Casper the average temperature recorded was 60.1 degrees Celsius on 25/8/2009.",
+    "metadata": {
+      "type": "weather",
+      "city": "Casper",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 91
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c92",
+    "text": "In Charlotte the average temperature recorded was 50.5 degrees Celsius on 30/3/2015.",
+    "metadata": {
+      "type": "weather",
+      "city": "Charlotte",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 92
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c93",
+    "text": "In Bilbao the average temperature recorded was 52.8 degrees Celsius on 24/1/2018.",
+    "metadata": {
+      "type": "weather",
+      "city": "Bilbao",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 93
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c94",
+    "text": "In Madison the average temperature recorded was 65.1 degrees Celsius on 23/8/2019.",
+    "metadata": {
+      "type": "weather",
+      "city": "Madison",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 94
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c95",
+    "text": "In Quito the average temperature recorded was 60.7 degrees Celsius on 16/11/2003.",
+    "metadata": {
+      "type": "weather",
+      "city": "Quito",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 95
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c96",
+    "text": "In Dar Es Salaam the average temperature recorded was 76.5 degrees Celsius on 17/8/2019.",
+    "metadata": {
+      "type": "weather",
+      "city": "Dar Es Salaam",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 88,
+      "chunk_index": 96
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c97",
+    "text": "In Zurich the average temperature recorded was 70.2 degrees Celsius on 19/7/1999.",
+    "metadata": {
+      "type": "weather",
+      "city": "Zurich",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 97
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c98",
+    "text": "In Nouakchott the average temperature recorded was 71.6 degrees Celsius on 11/11/2000.",
+    "metadata": {
+      "type": "weather",
+      "city": "Nouakchott",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 86,
+      "chunk_index": 98
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c99",
+    "text": "In San Jose the average temperature recorded was 70.5 degrees Celsius on 12/12/2003.",
+    "metadata": {
+      "type": "weather",
+      "city": "San Jose",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 99
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c100",
+    "text": "In Washington the average temperature recorded was 41.1 degrees Celsius on 10/3/2008.",
+    "metadata": {
+      "type": "weather",
+      "city": "Washington",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 100
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c101",
+    "text": "In Dubai the average temperature recorded was 76.3 degrees Celsius on 6/11/2000.",
+    "metadata": {
+      "type": "weather",
+      "city": "Dubai",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 101
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c102",
+    "text": "In Guangzhou the average temperature recorded was 70.5 degrees Celsius on 25/11/2000.",
+    "metadata": {
+      "type": "weather",
+      "city": "Guangzhou",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 102
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c103",
+    "text": "In Moscow the average temperature recorded was 34.5 degrees Celsius on 6/4/2013.",
+    "metadata": {
+      "type": "weather",
+      "city": "Moscow",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 103
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c104",
+    "text": "In Akron Canton the average temperature recorded was 40.7 degrees Celsius on 21/11/2005.",
+    "metadata": {
+      "type": "weather",
+      "city": "Akron Canton",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 88,
+      "chunk_index": 104
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c105",
+    "text": "In San Jose the average temperature recorded was 73.4 degrees Celsius on 17/1/1995.",
+    "metadata": {
+      "type": "weather",
+      "city": "San Jose",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 105
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c106",
+    "text": "In Pristina the average temperature recorded was 30.8 degrees Celsius on 8/12/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Pristina",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 106
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c107",
+    "text": "In Waco the average temperature recorded was 62.3 degrees Celsius on 15/5/2014.",
+    "metadata": {
+      "type": "weather",
+      "city": "Waco",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 79,
+      "chunk_index": 107
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c108",
+    "text": "In Sault Ste Marie the average temperature recorded was 26.2 degrees Celsius on 16/12/2011.",
+    "metadata": {
+      "type": "weather",
+      "city": "Sault Ste Marie",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 91,
+      "chunk_index": 108
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c109",
+    "text": "In Hartford Springfield the average temperature recorded was 40.8 degrees Celsius on 17/2/2011.",
+    "metadata": {
+      "type": "weather",
+      "city": "Hartford Springfield",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 95,
+      "chunk_index": 109
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c110",
+    "text": "In Houston the average temperature recorded was 76.0 degrees Celsius on 29/8/1996.",
+    "metadata": {
+      "type": "weather",
+      "city": "Houston",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 110
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c111",
+    "text": "In Goodland the average temperature recorded was 47.4 degrees Celsius on 14/5/1995.",
+    "metadata": {
+      "type": "weather",
+      "city": "Goodland",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 111
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c112",
+    "text": "In Perth the average temperature recorded was 74.2 degrees Celsius on 15/1/2005.",
+    "metadata": {
+      "type": "weather",
+      "city": "Perth",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 112
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c113",
+    "text": "In Istanbul the average temperature recorded was 62.1 degrees Celsius on 25/9/2018.",
+    "metadata": {
+      "type": "weather",
+      "city": "Istanbul",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 113
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c114",
+    "text": "In Canberra the average temperature recorded was 45.3 degrees Celsius on 23/7/2018.",
+    "metadata": {
+      "type": "weather",
+      "city": "Canberra",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 114
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c115",
+    "text": "In Kuwait the average temperature recorded was 66.0 degrees Celsius on 16/2/2011.",
+    "metadata": {
+      "type": "weather",
+      "city": "Kuwait",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 115
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c116",
+    "text": "In Raleigh Durham the average temperature recorded was 58.7 degrees Celsius on 1/4/2015.",
+    "metadata": {
+      "type": "weather",
+      "city": "Raleigh Durham",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 88,
+      "chunk_index": 116
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c117",
+    "text": "In Newark the average temperature recorded was 61.0 degrees Celsius on 15/10/2011.",
+    "metadata": {
+      "type": "weather",
+      "city": "Newark",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 117
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c118",
+    "text": "In Ankara the average temperature recorded was 67.0 degrees Celsius on 19/7/2019.",
+    "metadata": {
+      "type": "weather",
+      "city": "Ankara",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 118
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c119",
+    "text": "In Tulsa the average temperature recorded was 46.6 degrees Celsius on 3/11/2002.",
+    "metadata": {
+      "type": "weather",
+      "city": "Tulsa",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 119
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c120",
+    "text": "In Savannah the average temperature recorded was 49.9 degrees Celsius on 10/3/2001.",
+    "metadata": {
+      "type": "weather",
+      "city": "Savannah",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 120
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c121",
+    "text": "In Oklahoma City the average temperature recorded was 52.0 degrees Celsius on 11/2/2016.",
+    "metadata": {
+      "type": "weather",
+      "city": "Oklahoma City",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 88,
+      "chunk_index": 121
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c122",
+    "text": "In Washington the average temperature recorded was 66.5 degrees Celsius on 18/4/2013.",
+    "metadata": {
+      "type": "weather",
+      "city": "Washington",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 122
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c123",
+    "text": "In Flagstaff the average temperature recorded was 49.6 degrees Celsius on 14/10/2001.",
+    "metadata": {
+      "type": "weather",
+      "city": "Flagstaff",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 123
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c124",
+    "text": "In Bilbao the average temperature recorded was 73.7 degrees Celsius on 8/9/2014.",
+    "metadata": {
+      "type": "weather",
+      "city": "Bilbao",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 124
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c125",
+    "text": "In Canberra the average temperature recorded was 46.7 degrees Celsius on 25/8/2003.",
+    "metadata": {
+      "type": "weather",
+      "city": "Canberra",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 125
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c126",
+    "text": "In Kansas City the average temperature recorded was 62.0 degrees Celsius on 8/5/2003.",
+    "metadata": {
+      "type": "weather",
+      "city": "Kansas City",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 126
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c127",
+    "text": "In Grand Rapids the average temperature recorded was 25.7 degrees Celsius on 21/1/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Grand Rapids",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 87,
+      "chunk_index": 127
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c128",
+    "text": "In Tokyo the average temperature recorded was 77.1 degrees Celsius on 23/9/2005.",
+    "metadata": {
+      "type": "weather",
+      "city": "Tokyo",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 128
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c129",
+    "text": "In Freetown the average temperature recorded was -99.0 degrees Celsius on 8/7/2011.",
+    "metadata": {
+      "type": "weather",
+      "city": "Freetown",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 129
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c130",
+    "text": "In Islamabad the average temperature recorded was 81.3 degrees Celsius on 12/7/1995.",
+    "metadata": {
+      "type": "weather",
+      "city": "Islamabad",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 130
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c131",
+    "text": "In Vienna the average temperature recorded was 39.3 degrees Celsius on 18/1/2018.",
+    "metadata": {
+      "type": "weather",
+      "city": "Vienna",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 131
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c132",
+    "text": "In Abilene the average temperature recorded was 55.9 degrees Celsius on 25/4/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Abilene",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 132
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c133",
+    "text": "In Zagreb the average temperature recorded was 75.7 degrees Celsius on 1/8/1998.",
+    "metadata": {
+      "type": "weather",
+      "city": "Zagreb",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 133
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c134",
+    "text": "In Green Bay the average temperature recorded was 66.9 degrees Celsius on 19/7/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Green Bay",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 134
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c135",
+    "text": "In Atlanta the average temperature recorded was 63.6 degrees Celsius on 30/3/2005.",
+    "metadata": {
+      "type": "weather",
+      "city": "Atlanta",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 135
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c136",
+    "text": "In Allentown the average temperature recorded was 63.3 degrees Celsius on 11/10/2011.",
+    "metadata": {
+      "type": "weather",
+      "city": "Allentown",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 136
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c137",
+    "text": "In Chengdu the average temperature recorded was 64.7 degrees Celsius on 18/9/1995.",
+    "metadata": {
+      "type": "weather",
+      "city": "Chengdu",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 137
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c138",
+    "text": "In Colorado Springs the average temperature recorded was 51.8 degrees Celsius on 14/3/2013.",
+    "metadata": {
+      "type": "weather",
+      "city": "Colorado Springs",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 91,
+      "chunk_index": 138
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c139",
+    "text": "In San Francisco the average temperature recorded was 57.2 degrees Celsius on 1/6/2002.",
+    "metadata": {
+      "type": "weather",
+      "city": "San Francisco",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 87,
+      "chunk_index": 139
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c140",
+    "text": "In Allentown the average temperature recorded was 57.3 degrees Celsius on 19/10/2005.",
+    "metadata": {
+      "type": "weather",
+      "city": "Allentown",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 140
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c141",
+    "text": "In Louisville the average temperature recorded was 71.9 degrees Celsius on 11/7/1999.",
+    "metadata": {
+      "type": "weather",
+      "city": "Louisville",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 141
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c142",
+    "text": "In Reno the average temperature recorded was 31.1 degrees Celsius on 29/12/1999.",
+    "metadata": {
+      "type": "weather",
+      "city": "Reno",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 142
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c143",
+    "text": "In Muscat the average temperature recorded was 93.8 degrees Celsius on 10/5/2015.",
+    "metadata": {
+      "type": "weather",
+      "city": "Muscat",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 143
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c144",
+    "text": "In Asheville the average temperature recorded was 37.1 degrees Celsius on 5/11/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Asheville",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 144
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c145",
+    "text": "In Cairo the average temperature recorded was 63.8 degrees Celsius on 5/12/2012.",
+    "metadata": {
+      "type": "weather",
+      "city": "Cairo",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 145
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c146",
+    "text": "In Green Bay the average temperature recorded was 42.1 degrees Celsius on 11/4/1995.",
+    "metadata": {
+      "type": "weather",
+      "city": "Green Bay",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 146
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c147",
+    "text": "In Manila the average temperature recorded was 79.6 degrees Celsius on 3/2/2001.",
+    "metadata": {
+      "type": "weather",
+      "city": "Manila",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 147
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c148",
+    "text": "In Green Bay the average temperature recorded was 65.5 degrees Celsius on 30/8/2011.",
+    "metadata": {
+      "type": "weather",
+      "city": "Green Bay",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 148
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c149",
+    "text": "In Atlantic City the average temperature recorded was 27.0 degrees Celsius on 8/2/2014.",
+    "metadata": {
+      "type": "weather",
+      "city": "Atlantic City",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 87,
+      "chunk_index": 149
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c150",
+    "text": "In Abu Dhabi the average temperature recorded was 95.0 degrees Celsius on 14/9/2015.",
+    "metadata": {
+      "type": "weather",
+      "city": "Abu Dhabi",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 150
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c151",
+    "text": "In El Paso the average temperature recorded was 79.3 degrees Celsius on 27/4/2000.",
+    "metadata": {
+      "type": "weather",
+      "city": "El Paso",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 151
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c152",
+    "text": "In Paramaribo the average temperature recorded was 83.0 degrees Celsius on 17/11/2004.",
+    "metadata": {
+      "type": "weather",
+      "city": "Paramaribo",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 86,
+      "chunk_index": 152
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c153",
+    "text": "In Islamabad the average temperature recorded was 89.6 degrees Celsius on 18/5/2017.",
+    "metadata": {
+      "type": "weather",
+      "city": "Islamabad",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 153
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c154",
+    "text": "In Monterrey the average temperature recorded was 70.5 degrees Celsius on 8/3/2019.",
+    "metadata": {
+      "type": "weather",
+      "city": "Monterrey",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 154
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c155",
+    "text": "In Pocatello the average temperature recorded was 52.8 degrees Celsius on 18/10/1997.",
+    "metadata": {
+      "type": "weather",
+      "city": "Pocatello",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 155
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c156",
+    "text": "In Sofia the average temperature recorded was 28.5 degrees Celsius on 1/1/2003.",
+    "metadata": {
+      "type": "weather",
+      "city": "Sofia",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 79,
+      "chunk_index": 156
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c157",
+    "text": "In South Bend the average temperature recorded was 70.9 degrees Celsius on 29/7/2012.",
+    "metadata": {
+      "type": "weather",
+      "city": "South Bend",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 157
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c158",
+    "text": "In Bujumbura the average temperature recorded was 58.7 degrees Celsius on 24/11/2006.",
+    "metadata": {
+      "type": "weather",
+      "city": "Bujumbura",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 158
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c159",
+    "text": "In Istanbul the average temperature recorded was 82.0 degrees Celsius on 12/8/2001.",
+    "metadata": {
+      "type": "weather",
+      "city": "Istanbul",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 159
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c160",
+    "text": "In Duluth the average temperature recorded was 28.7 degrees Celsius on 24/2/2002.",
+    "metadata": {
+      "type": "weather",
+      "city": "Duluth",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 160
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c161",
+    "text": "In Munich the average temperature recorded was 44.6 degrees Celsius on 23/11/2004.",
+    "metadata": {
+      "type": "weather",
+      "city": "Munich",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 161
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c162",
+    "text": "In Tupelo the average temperature recorded was 80.1 degrees Celsius on 14/7/2007.",
+    "metadata": {
+      "type": "weather",
+      "city": "Tupelo",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 162
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c163",
+    "text": "In Katmandu the average temperature recorded was -99.0 degrees Celsius on 29/1/2009.",
+    "metadata": {
+      "type": "weather",
+      "city": "Katmandu",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 163
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c164",
+    "text": "In Nashville the average temperature recorded was 46.5 degrees Celsius on 15/1/1998.",
+    "metadata": {
+      "type": "weather",
+      "city": "Nashville",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 164
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c165",
+    "text": "In Hamilton the average temperature recorded was 70.5 degrees Celsius on 13/11/1999.",
+    "metadata": {
+      "type": "weather",
+      "city": "Hamilton",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 165
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c166",
+    "text": "In Dallas Ft Worth the average temperature recorded was 85.0 degrees Celsius on 31/7/2002.",
+    "metadata": {
+      "type": "weather",
+      "city": "Dallas Ft Worth",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 90,
+      "chunk_index": 166
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c167",
+    "text": "In Tupelo the average temperature recorded was 66.9 degrees Celsius on 26/4/2007.",
+    "metadata": {
+      "type": "weather",
+      "city": "Tupelo",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 167
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c168",
+    "text": "In Rhode Island the average temperature recorded was 65.3 degrees Celsius on 12/6/2013.",
+    "metadata": {
+      "type": "weather",
+      "city": "Rhode Island",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 87,
+      "chunk_index": 168
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c169",
+    "text": "In Amsterdam the average temperature recorded was 64.4 degrees Celsius on 8/7/2002.",
+    "metadata": {
+      "type": "weather",
+      "city": "Amsterdam",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 169
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c170",
+    "text": "In Vienna the average temperature recorded was 38.5 degrees Celsius on 10/1/2018.",
+    "metadata": {
+      "type": "weather",
+      "city": "Vienna",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 170
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c171",
+    "text": "In Fresno the average temperature recorded was 72.2 degrees Celsius on 25/5/2015.",
+    "metadata": {
+      "type": "weather",
+      "city": "Fresno",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 171
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c172",
+    "text": "In Zagreb the average temperature recorded was 74.4 degrees Celsius on 28/7/2016.",
+    "metadata": {
+      "type": "weather",
+      "city": "Zagreb",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 172
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c173",
+    "text": "In Newark the average temperature recorded was 79.7 degrees Celsius on 26/5/2016.",
+    "metadata": {
+      "type": "weather",
+      "city": "Newark",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 173
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c174",
+    "text": "In Reno the average temperature recorded was 49.1 degrees Celsius on 23/3/2014.",
+    "metadata": {
+      "type": "weather",
+      "city": "Reno",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 79,
+      "chunk_index": 174
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c175",
+    "text": "In Algiers the average temperature recorded was 77.0 degrees Celsius on 26/7/2001.",
+    "metadata": {
+      "type": "weather",
+      "city": "Algiers",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 175
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c176",
+    "text": "In Erie the average temperature recorded was 69.5 degrees Celsius on 12/7/2015.",
+    "metadata": {
+      "type": "weather",
+      "city": "Erie",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 79,
+      "chunk_index": 176
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c177",
+    "text": "In Quito the average temperature recorded was 57.9 degrees Celsius on 3/6/2002.",
+    "metadata": {
+      "type": "weather",
+      "city": "Quito",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 79,
+      "chunk_index": 177
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c178",
+    "text": "In Boston the average temperature recorded was 59.6 degrees Celsius on 8/10/2016.",
+    "metadata": {
+      "type": "weather",
+      "city": "Boston",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 178
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c179",
+    "text": "In Conakry the average temperature recorded was 83.3 degrees Celsius on 13/3/2005.",
+    "metadata": {
+      "type": "weather",
+      "city": "Conakry",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 179
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c180",
+    "text": "In Karachi the average temperature recorded was 84.6 degrees Celsius on 22/8/1995.",
+    "metadata": {
+      "type": "weather",
+      "city": "Karachi",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 180
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c181",
+    "text": "In Phoenix the average temperature recorded was 74.4 degrees Celsius on 21/4/2003.",
+    "metadata": {
+      "type": "weather",
+      "city": "Phoenix",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 181
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c182",
+    "text": "In Brasilia the average temperature recorded was 70.2 degrees Celsius on 3/4/2014.",
+    "metadata": {
+      "type": "weather",
+      "city": "Brasilia",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 182
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c183",
+    "text": "In Belgrade the average temperature recorded was 69.8 degrees Celsius on 17/7/2017.",
+    "metadata": {
+      "type": "weather",
+      "city": "Belgrade",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 183
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c184",
+    "text": "In Kampala the average temperature recorded was 74.4 degrees Celsius on 28/1/2017.",
+    "metadata": {
+      "type": "weather",
+      "city": "Kampala",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 184
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c185",
+    "text": "In Manama the average temperature recorded was 97.3 degrees Celsius on 22/6/2008.",
+    "metadata": {
+      "type": "weather",
+      "city": "Manama",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 185
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c186",
+    "text": "In Akron Canton the average temperature recorded was 37.0 degrees Celsius on 3/12/2007.",
+    "metadata": {
+      "type": "weather",
+      "city": "Akron Canton",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 87,
+      "chunk_index": 186
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c187",
+    "text": "In Calcutta the average temperature recorded was 87.8 degrees Celsius on 21/5/2018.",
+    "metadata": {
+      "type": "weather",
+      "city": "Calcutta",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 187
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c188",
+    "text": "In Osaka the average temperature recorded was 33.6 degrees Celsius on 10/2/1996.",
+    "metadata": {
+      "type": "weather",
+      "city": "Osaka",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 80,
+      "chunk_index": 188
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c189",
+    "text": "In Baltimore the average temperature recorded was 38.2 degrees Celsius on 8/2/2012.",
+    "metadata": {
+      "type": "weather",
+      "city": "Baltimore",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 189
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c190",
+    "text": "In Shanghai the average temperature recorded was 52.9 degrees Celsius on 4/4/2010.",
+    "metadata": {
+      "type": "weather",
+      "city": "Shanghai",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 190
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c191",
+    "text": "In Las Vegas the average temperature recorded was 54.2 degrees Celsius on 15/11/2015.",
+    "metadata": {
+      "type": "weather",
+      "city": "Las Vegas",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 85,
+      "chunk_index": 191
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c192",
+    "text": "In Dusanbe the average temperature recorded was 30.1 degrees Celsius on 18/12/2002.",
+    "metadata": {
+      "type": "weather",
+      "city": "Dusanbe",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 192
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c193",
+    "text": "In Bangkok the average temperature recorded was 84.3 degrees Celsius on 22/10/2007.",
+    "metadata": {
+      "type": "weather",
+      "city": "Bangkok",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 83,
+      "chunk_index": 193
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c194",
+    "text": "In Salt Lake City the average temperature recorded was 25.0 degrees Celsius on 25/2/2013.",
+    "metadata": {
+      "type": "weather",
+      "city": "Salt Lake City",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 89,
+      "chunk_index": 194
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c195",
+    "text": "In Lake Charles the average temperature recorded was 66.1 degrees Celsius on 21/12/2015.",
+    "metadata": {
+      "type": "weather",
+      "city": "Lake Charles",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 88,
+      "chunk_index": 195
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c196",
+    "text": "In Rochester the average temperature recorded was 34.8 degrees Celsius on 12/4/2009.",
+    "metadata": {
+      "type": "weather",
+      "city": "Rochester",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 196
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c197",
+    "text": "In Prague the average temperature recorded was 47.1 degrees Celsius on 26/10/2016.",
+    "metadata": {
+      "type": "weather",
+      "city": "Prague",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 82,
+      "chunk_index": 197
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c198",
+    "text": "In Abu Dhabi the average temperature recorded was 95.5 degrees Celsius on 25/5/1995.",
+    "metadata": {
+      "type": "weather",
+      "city": "Abu Dhabi",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 84,
+      "chunk_index": 198
+    }
+  },
+  {
+    "chunk_id": "agro_weather_dataset_rag_ready_c199",
+    "text": "In Omaha the average temperature recorded was 48.6 degrees Celsius on 25/10/2008.",
+    "metadata": {
+      "type": "weather",
+      "city": "Omaha",
+      "source": "weather_dataset_rag_ready.json",
+      "page": 1,
+      "domain": "Agro Dataset / Scientific Crop Knowledge",
+      "char_count": 81,
+      "chunk_index": 199
+    }
+  }
+]
